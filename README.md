@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JucaLucas 
+- 👋<h1> Hi, I’m @JucaLucas</h1> 
 - 👀 I’m interested in start working with programming preferably as a junior.
 - 🌱 I’m currently learning Java POO, Node.JS.
 - 💞️ I’m looking to collaborate on 
