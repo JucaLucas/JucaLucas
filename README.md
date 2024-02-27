@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Olá, eu sou JucaLucas e estou cursando Sistemas de Informação.<br>- 👀 Eu estou interessado em estagiar, trainee ou  começar como um junior.<br>- 🌱 Atualmente estou estudando Java POO, Node.JS.<br>- 😄 Pronome: ele/dele.
+- 👋 Olá, eu sou JucaLucas e estou cursando Sistemas de Informação.<br>- 👀 Eu estou interessado em estagiar, trainee ou  começar como um junior.<br>- 🌱 Atualmente estou estudando Java POO, Node.JS, SQL.<br>- 😄 Pronome: ele/dele.
 
 
 ## 🌐 Socials:
